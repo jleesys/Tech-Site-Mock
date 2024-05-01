@@ -107,6 +107,23 @@ header .nav ul li a:hover {
     text-align: center;
 }
 
+.product-description .card-display {
+    display: flex;
+}
+
+.product-description .card-display .card {
+    padding: 3em;
+    width: 20em;
+    height: 20em;
+    font-size: .75em;
+    display: flex;
+}
+
+.product-description .card-display .card img {
+    height: 6em;
+    width: 6em;
+}
+
 #mainimg img {
     width: 40em;
     height: 25em; 
